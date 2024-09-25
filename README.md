@@ -2,6 +2,7 @@
 ## Date Started: 2024/09/25
 
 # Contents
+<span style="color:red">This text is red</span>
 # Ambiences
 ## Travel:
 ### Ambience:
