@@ -58,6 +58,7 @@
 -	A Row of buttons that can easily fade between the different ambiences.
 -	Title should change based on the combination of sounds “Rain + Forest + Group Walk” will change the title from “Travel” to ” Rainy Forest” or some bs like that.
 -	The sound should be able to pause.
+-	The audio should be able to be controlled with my earphones maybe.
 
 ## The App should be able to:
 ## Each Ambience should have
