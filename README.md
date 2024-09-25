@@ -3,8 +3,8 @@
 
 # Contents
 # Ambiences
-Travel:
-Ambience:
+## Travel:
+### Ambience:
 -	Rain
 -	Forest
 -	Wind
@@ -18,8 +18,8 @@ Ambience:
 -	Walk Group
 -	Ship
  
-Night:
-Ambience:
+## Night:
+### Ambience:
 -	Rain
 -	Fireplace
 -	Forest
@@ -34,8 +34,8 @@ Ambience:
 -	Horse Walk
 
  
-Battle:
-Ambience:
+## Battle:
+### Ambience:
 -	Rain
 -	Fire
 -	Wind
@@ -49,8 +49,8 @@ Ambience:
 -	Galloping 
 -	Running
 -	Earthquake
-Tavern:
-Suspense:
+## Tavern:
+## Suspense:
 
 # App Functionality
 # User Interaction
